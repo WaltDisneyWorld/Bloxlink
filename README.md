@@ -1,3 +1,5 @@
+![](https://doy2mn9upadnk.cloudfront.net/uploads/default/original/4X/c/c/4/cc4cee99ac8c293cad375f3b0471479ce0cc679c.png)
+
 # Bloxlink
 Roblox Verification made easy! Features everything you need to integrate your Discord server with Roblox.
 
